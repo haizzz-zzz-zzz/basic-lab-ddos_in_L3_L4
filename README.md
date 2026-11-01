@@ -2,17 +2,6 @@
 
 ---
 
-## MỤC LỤC
-
-1. [Khái Niệm DDoS](#1-khái-niệm-ddos)
-2. [Hai Loại Tấn Công](#2-hai-loại-tấn-công)
-   - 2.1. Smurf Attack
-   - 2.2. UDP Flood
-3. [Cấu Trúc Lab](#3-cấu-trúc-lab)
-4. [Cách Tấn Công](#4-cách-tấn-công)
-5. [Cách Đo Đạc](#5-cách-đo-đạc)
-
----
 
 ## 1. Khái Niệm DDoS
 
